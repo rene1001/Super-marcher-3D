@@ -1,0 +1,6 @@
+{
+  "name": "Supermarché 3D Immersion & Gestion",
+  "description": "Supermarché 3D interactif avec navigation fluide, chariots virtuels, rayons alimentaires, gestion des stocks en temps réel, analytics et suivi GPS des livraisons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
